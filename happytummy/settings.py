@@ -51,6 +51,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'donations',
     'accounts',
+    'django_bootstrap5',
 ]
 
 MIDDLEWARE = [
